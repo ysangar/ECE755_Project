@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yaman
+HostName                       tux-40.cae.wisc.edu
+ProcessIdentifier              19343
+ProcessCreationTime_UTC        1429926050
+ProcessCreationTime_Readable   Fri Apr 24 20:40:50 2015 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/y/yaman/ece555/cadence/Indigo/PMOSHVt_Test/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Apr 24 20:44:16 2015 CDT
