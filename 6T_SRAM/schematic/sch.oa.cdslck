@@ -4,6 +4,18 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
+<<<<<<< HEAD
+LoginName                      yaman
+HostName                       tux-41.cae.wisc.edu
+ProcessIdentifier              31760
+ProcessCreationTime_UTC        1430235660
+ProcessCreationTime_Readable   Tue Apr 28 10:41:00 2015 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/y/yaman/ece555/cadence/Indigo/6T_SRAM/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Tue Apr 28 10:46:26 2015 CDT
+=======
 LoginName                      prateek
 HostName                       tux-26.cae.wisc.edu
 ProcessIdentifier              30684
@@ -14,3 +26,4 @@ OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /userspace/p/prateek/ECE755/cadence/Indigo/6T_SRAM/schematic/sch.oa.cdslck
 TimeEditLocked                 Wed Apr 29 16:59:08 2015 CDT
+>>>>>>> d48ac495d3037cc2ebc5ef68e4b0c64b90a85adc
